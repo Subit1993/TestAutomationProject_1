@@ -33,8 +33,9 @@ public class TC004_Verify_unique_CustId_For_Each_GeoZone_Valid_Input extends Bas
 	
 		}
 		//Hence we can put Assertion check for each ContractID howmany CustomerID uniquley spotted
-		// for ContractID 2345 -> 3 Unique CustomerID
-		//for ContractID 2346 -> 2 unique CustomerID
+		// US_East -> 1 CustomerID
+		//Us_West -> 2 Unique CustomerID
+		//Eu_West -> 2 Unique CustomerID
 		
 		
 		
